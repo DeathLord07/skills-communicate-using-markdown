@@ -18,3 +18,7 @@ print("hello world")
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Add an image to the index.md
+- [x] Add code block to the index.md
+- [ ] Create a task list in the index.md
